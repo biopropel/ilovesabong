@@ -1,0 +1,75 @@
+[
+  {
+    "derbyName" : "World Slasher Cup",
+    "champions" :
+    [
+      { "title" : "January 2018 - 9-Cock Derby", "entries" :
+      [
+        { "entryName" : "Sagupaan B50 Forten Hammer", "owner" : "Cong. Patrick Antonio", "score" : "8.5pts" }
+      ]
+      },
+      { "title" : "May 2018 - 9-Cock Derby", "entries" :
+      [
+        { "entryName" : "Greengold Uno", "owner" : "Rey Briones / Rod Advincula", "score" : "7.5pts" }
+      ]
+      }
+    ]
+  },
+  {
+    "derbyName" : "World Pitmaster Cup",
+    "champions" :
+    [
+      { "title" : "9-Cock Derby 2018", "entries" :
+      [
+        { "entryName" : "San Juan MOA", "owner" : "Anthony Marasigan", "score" : "8.5pts" },
+        { "entryName" : "R Star EP", "owner" : "Boyet and Grace Sison", "score" : "8.5pts" }
+      ]
+      },
+      { "title" : "9-Cock Derby 2018 (Fiesta Edition)", "entries" :
+      [
+        { "entryName" : "King Arthur Spiderman", "owner" : "Art Atayde", "score" : "8pts" }
+      ]
+      },
+      { "title" : "Big Event 220K Pot Money 7-Stag Derby 2018", "entries" :
+      [
+        { "entryName" : "Blue Blade Keison Troy Mitch", "owner" : "Engr. Sonny Lagon / Engr. Mitch / Rico-Procy", "score" : "7pts" }
+      ]
+      },
+      { "title" : "9-Stag Derby (Master Breeder Edition 2018)", "entries" :
+      [
+        { "entryName" : "Toronto Canada", "owner" : "Adrian Collins / RJ Mea", "score" : "9pts" },
+        { "entryName" : "Blue Blade 2", "owner" : "Engr. Sonny Lagon", "score" : "9pts" }
+      ]
+      }
+    ]
+  },
+  {
+    "derbyName" : "Candelaria Derby",
+    "champions" :
+    [
+      { "title" : "7-Cock Annual Derby 2018", "entries" :
+      [
+        { "entryName" : "BTL Ahluck CamSur", "owner" : "Benzen Llamado / Willard Liong Ty", "score" : "6pts" },
+        { "entryName" : "", "owner" : "Marlon Pocession", "score" : "6pts" },
+        { "entryName" : "RSL and Sons", "owner" : "Renato Lacson & Sons", "score" : "6pts" },
+        { "entryName" : "Salbros Satsuma Bamboo Assault", "owner" : "Norland Blount / Tabot Salazar", "score" : "6pts" }
+      ]
+      }
+    ]
+  },
+  {
+    "derbyName" : "Araw ng Davao",
+    "champions" :
+    [
+      { "title" : "6-Cock Derby 2018", "entries" :
+      [
+        { "entryName" : "CPB Roan JB", "owner" : "CPB / Jun Bacolod - Malita", "score" : "6pts" },
+        { "entryName" : "Knights GF", "owner" : "Boboy Bonghanoy / Emm Miranda / Ondoy B.", "score" : "6pts" },
+        { "entryName" : "RBF Jundolim", "owner" : "Jun Lao / Lemuel Singson / Brundy", "score" : "6pts" },
+        { "entryName" : "VM Bluefire SF 2", "owner" : "Bebot Uy - Samal", "score" : "6pts" },
+        { "entryName" : "Roan / AVM / JS April 1 6-Cock", "owner" : "Jun Bacolod / Alex Macariola / J. Sandique", "score" : "6pts" }
+      ]
+      }
+    ]
+  }
+]

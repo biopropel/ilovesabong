@@ -1,0 +1,134 @@
+[
+  { "name" : "SabongTV",
+    "schedules" : [
+      {"time" : "Every Saturday 7AM - 8AM @ IBC Channel 13"}
+    ],
+    "hosts" : "",
+    "facebook" : "https://www.facebook.com/SABONGTV"
+  },
+  { "name" : "Sagupaan Show",
+    "schedules" : [
+      {"time" : "Every Saturday 8:30AM - 9AM @ ABS-CBN Sports Channel 23"}
+    ],
+    "hosts" : "Patrick Antonio, Tony Antonio, et al.",
+    "facebook" : ""
+  },
+  { "name" : "Bakbakan Na",
+    "schedules" : [
+      {"time" : "Every Sunday 9AM - 10AM @ ESPN 5 Channel 5"},
+      {"time" : "Every Sunday 12PM - 1PM @ Pinoy Extreme Channel"}
+    ],
+    "hosts" : "Joey Sy, Eddie Boy Ochoa",
+    "facebook" : "https://www.facebook.com/bakbakannatv"
+  },
+  { "name" : "The All New Tukaan",
+    "schedules" : [
+      {"time" : "Every Sunday 8AM - 9AM @ One Sports Channel 6"}
+    ],
+    "hosts" : "Manny Berbano, Robie Yu Panis, MJ Nama",
+    "facebook" : "https://www.facebook.com/Kasabong"
+  },
+  { "name" : "Sabong Nation",
+    "schedules" : [
+      {"time" : "Every Sunday 9AM @ One Sports Channel 6"}
+    ],
+    "hosts" : "Havy Bagatsing, Ramil Tan",
+    "facebook" : "https://www.facebook.com/SabongNationIBC"
+  },
+  { "name" : "Salpukan 360",
+    "schedules" : [
+      {"time" : "Every Saturday 8AM - 9AM @ ESPN 5 Channel 5"},
+      {"time" : "Every Saturday 8AM - 9AM @ Pinoy Extreme Channel"},
+      {"time" : "Every Sunday 8AM - 9AM @ Pinoy Extreme Channel"}
+    ],
+    "hosts" : "Jay Monterona",
+    "facebook" : "https://www.facebook.com/profile.php?id=100008111650123"
+  },
+  { "name" : "Salto TV",
+    "schedules" : [
+      {"time" : "Every Saturday 9AM - 9:30AM @ Pinoy Extreme Channel"},
+      {"time" : "Every Sunday 9AM - 9:30AM @ Pinoy Extreme Channel"},
+      {"time" : "With replays everyday @ Pinoy Extreme Channel"}
+    ],
+    "hosts" : "",
+    "facebook" : "https://www.facebook.com/SALTO.OFFICIAL/"
+  },
+  { "name" : "Salpukan Cockfights",
+    "schedules" : [
+      {"time" : "Everyday 6AM - 7AM @ Pinoy Extreme Channel"}
+    ],
+    "hosts" : "Jay Monterona",
+    "facebook" : ""
+  },
+  { "name" : "San Juan Derby Time",
+    "schedules" : [
+      {"time" : "Every Saturday 1PM - 1:30PM @ Solar Sports Channel"}
+    ],
+    "hosts" : "Voice Over by Charlie Cruz",
+    "facebook" : ""
+  },
+  { "name" : "Llyamadista TV",
+    "schedules" : [
+      {"time" : "Every Sunday 8AM - 9AM @ ABS-CBN Sports Channel 23"}
+    ],
+    "hosts" : "",
+    "facebook" : "https://www.facebook.com/llamadistatv/"
+  },
+  { "name" : "Sultada",
+    "schedules" : [
+      {"time" : "Weekdays 9PM - 10PM @ Pinoy Extreme Channel"},
+      {"time" : "Weekends 10PM - 11PM @ Pinoy Extreme Channel"},
+      {"time" : "Everyday 4AM - 5AM @ Pinoy Extreme Channel"}
+    ],
+    "hosts" : "Jojo Delgado, et al.",
+    "facebook" : "https://www.facebook.com/Kasabong"
+  },
+  { "name" : "Chicken Talk",
+    "schedules" : [
+      {"time" : "Every Tuesday 9PM - 10PM @ IBC Channel 13"},
+      {"time" : "Every Wednesday 12PM - 1PM @ Pinoy Extreme Channel"},
+      {"time" : "Every Wednesday 11PM - 12AM @ Pinoy Extreme Channel"},
+      {"time" : "Every Thursday 7AM - 8AM @ Pinoy Extreme Channel"},
+      {"time" : "Every Saturday 10AM - 11AM @ IBC Channel 13"}
+    ],
+    "hosts" : "Rolando Luzong, Joey Sy, et al.",
+    "facebook" : "https://www.facebook.com/Chicken-Talk-1667352546813929/"
+  },
+  { "name" : "Super Sabong",
+    "schedules" : [
+      {"time" : "Thursday to Saturday - 12PM - 1PM @ Pinoy Extreme Channel"},
+      {"time" : "Thursday to Saturday - 11PM - 12AM @ Pinoy Extreme Channel"},
+      {"time" : "Friday to Sunday - 7AM - 8AM @ Pinoy Extreme Channel"}
+    ],
+    "hosts" : "Rolando Luzong, Diana Meneses, et al.",
+    "facebook" : ""
+  },
+  { "name" : "Tahor TV - Your Ultimate Gamefowl Show",
+    "schedules" : [
+      {"time" : "Every Saturday 10AM - 10:30AM @ PTV Channel 4"}
+    ],
+    "hosts" : "Mamad Villarubio",
+    "facebook" : "https://www.facebook.com/YOURULTIMATEGAMEFOWLSHOW/"
+  },
+  { "name" : "Insider Sabong",
+    "schedules" : [
+      {"time" : "Every Thursday 11PM - 12PM @ Gametime Channel 109 CIGNAL"}
+    ],
+    "hosts" : "",
+    "facebook" : ""
+  },
+  { "name" : "SLTV.ph - Live Sabong",
+    "schedules" : [
+      {"time" : "24/7 @ SLTv Channel 106 CIGNAL (PPV P1000/month subscription)"}
+    ],
+    "hosts" : "",
+    "facebook" : ""
+  },
+  { "name" : "Gametime Channel - Live Sabong",
+    "schedules" : [
+      {"time" : "24/7 @ Gametime Channel 109 CIGNAL (PPV P249/month subscription)"}
+    ],
+    "hosts" : "",
+    "facebook" : ""
+  }
+]
