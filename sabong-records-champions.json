@@ -3,6 +3,26 @@
     "derbyName" : "World Slasher Cup",
     "champions" :
     [
+      { "title" : "January 2023 - 9-Cock Derby", "entries" :
+      [
+        { "entryName" : "Mulawin 1", "owner" : "Frank Berin", "score" : "8pts" },
+        { "entryName" : "Thunderbird II", "owner" : "Nene Araneta / Frank Berin", "score" : "8pts" },
+        { "entryName" : "Jonah", "owner" : "", "score" : "8pts" },
+        { "entryName" : "Cali Dreamers Lagitik", "owner" : "", "score" : "8pts" },
+        { "entryName" : "SFVM Sagupaan King Cutter", "owner" : "Bebot Uy / Patrick Antonio", "score" : "8pts" }
+      ]
+      },
+      { "title" : "June 2022 - 9-Cock Derby", "entries" :
+      [
+        { "entryName" : "Guagua Cockpit Arena", "owner" : "Engr. Efren Canlas / Nyok De Leon / Tony Camaya", "score" : "8pts" },
+        { "entryName" : "D'Shipper 888 / BBB", "owner" : "Roel C. Facundo / Beng Joson / Jojo Bacar", "score" : "8pts" }
+      ]
+      },
+      { "title" : "March 2022 - 9-Cock Derby", "entries" :
+      [
+        { "entryName" : "Texas Cockpit Arena", "owner" : "TJ Marquez", "score" : "9pts" }        
+      ]
+      },
       { "title" : "January 2018 - 9-Cock Derby", "entries" :
       [
         { "entryName" : "Sagupaan B50 Forten Hammer", "owner" : "Cong. Patrick Antonio", "score" : "8.5pts" }
