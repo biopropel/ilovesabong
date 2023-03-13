@@ -81,7 +81,15 @@
     "derbyName" : "Araw ng Davao",
     "champions" :
     [
-      { "title" : "6-Cock Derby 2018", "entries" :
+      { "title" : "6-Cock Derby 2023", "entries" :
+      [
+        { "entryName" : "ROAN EVER GREEN", "owner" : "Jun Bacolod/Jong Duy (Davao)", "score" : "6pts" },
+        { "entryName" : "MS TIGER", "owner" : "DMS/Letlet Bibera (Cotabato)", "score" : "6pts" },
+        { "entryName" : "KRISTINE KAYE", "owner" : "Philip Jimenez", "score" : "6pts" },
+        { "entryName" : "NELIO", "owner" : "Nelio Panigaling (Digos)", "score" : "6pts" }
+      ]
+      },
+	    { "title" : "6-Cock Derby 2018", "entries" :
       [
         { "entryName" : "CPB Roan JB", "owner" : "CPB / Jun Bacolod - Malita", "score" : "6pts" },
         { "entryName" : "Knights GF", "owner" : "Boboy Bonghanoy / Emm Miranda / Ondoy B.", "score" : "6pts" },
