@@ -1,6 +1,7 @@
 [
-	{"title" : "2023 Araw ng Davao 6-Cock Derby", "prize" : "", "date" : "March 4, 7, 9, 11, 2023", "location" : "The New Davao Matina Gallera, Davao City", "promoter" : "Hosted By: The New Davao Matina Gallera", "potMoney" : "", "minBet" : ""},
 	{"title" : "North Luzon Baguio Tatak Excellence Expo Caravan", "prize" : "", "date" : "April 15, 2023", "location" : "Baguio Convention and Cultural Center, Baguio City", "promoter" : "Hosted By: Excellence PS", "potMoney" : "", "minBet" : ""},
-	{"title" : "2nd Cagayan de Oro National Gamefowl Expo", "prize" : "", "date" : "Marcy 17-19, 2023", "location" : "The Atrium, Limketkai Mall, Cagayan de Oro City", "promoter" : "", "potMoney" : "", "minBet" : ""},
-	{"title" : "3rdd CamSur Gamefowl Expo", "prize" : "", "date" : "Marcy 24-25, 2023", "location" : "Capitol Convention Center, Pili Camarines Sur", "promoter" : "", "potMoney" : "", "minBet" : ""}
+	{"title" : "BCBA 4-Cock Derby", "prize" : "", "date" : "May 25, 2023", "location" : "Balagtas Complex Cockpit, Brgy. Balagtas, Batangas City", "promoter" : "Hosted By: The BCBA Group", "potMoney" : "No Pot Money", "minBet" : "P5500"},
+	{"title" : "1M Pasay 5-Cock Derby", "prize" : "", "date" : "April 27, 2023", "location" : "Pasay Coliseum, Pasay City", "promoter" : "Hosted By: Mang Nick", "potMoney" : "", "minBet" : ""},
+	{"title" : "1M Pasay 5-Cock Derby", "prize" : "", "date" : "May 11, 2023", "location" : "Pasay Coliseum, Pasay City", "promoter" : "Hosted By: Mang Nick", "potMoney" : "", "minBet" : ""},
+	{"title" : "2023 World Slasher Cup 2 Invitational 9-Cock Derby", "prize" : "", "date" : "May 22, 23, 24, 25, 29, 30 2023", "location" : "SMART Araneta Coliseum, Cubao, Quezon City", "promoter" : "Hosted By: Pintakasi", "potMoney" : "P88,000", "minBet" : "P55,000"}
 ]
