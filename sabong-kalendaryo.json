@@ -1,7 +1,6 @@
-[
-	{"title" : "North Luzon Baguio Tatak Excellence Expo Caravan", "prize" : "", "date" : "April 15, 2023", "location" : "Baguio Convention and Cultural Center, Baguio City", "promoter" : "Hosted By: Excellence PS", "potMoney" : "", "minBet" : ""},
-	{"title" : "BCBA 4-Cock Derby", "prize" : "", "date" : "May 25, 2023", "location" : "Balagtas Complex Cockpit, Brgy. Balagtas, Batangas City", "promoter" : "Hosted By: The BCBA Group", "potMoney" : "No Pot Money", "minBet" : "P5500"},
-	{"title" : "1M Pasay 5-Cock Derby", "prize" : "", "date" : "April 27, 2023", "location" : "Pasay Coliseum, Pasay City", "promoter" : "Hosted By: Mang Nick", "potMoney" : "", "minBet" : ""},
+[			
 	{"title" : "1M Pasay 5-Cock Derby", "prize" : "", "date" : "May 11, 2023", "location" : "Pasay Coliseum, Pasay City", "promoter" : "Hosted By: Mang Nick", "potMoney" : "", "minBet" : ""},
-	{"title" : "2023 World Slasher Cup 2 Invitational 9-Cock Derby", "prize" : "", "date" : "May 22, 23, 24, 25, 29, 30 2023", "location" : "SMART Araneta Coliseum, Cubao, Quezon City", "promoter" : "Hosted By: Pintakasi", "potMoney" : "P88,000", "minBet" : "P55,000"}
+	{"title" : "BCBA 4-Cock Derby", "prize" : "", "date" : "May 25, 2023", "location" : "Balagtas Complex Cockpit, Brgy. Balagtas, Batangas City", "promoter" : "Hosted By: The BCBA Group", "potMoney" : "No Pot Money", "minBet" : "P5500"},
+	{"title" : "2023 World Slasher Cup 2 Invitational 9-Cock Derby", "prize" : "", "date" : "May 22, 23, 24, 25, 29, 30 2023", "location" : "SMART Araneta Coliseum, Cubao, Quezon City", "promoter" : "Hosted By: Pintakasi", "potMoney" : "P88,000", "minBet" : "P55,000"},
+	{"title" : "South Luzon Albay Tatak Excellence Expo Caravan", "prize" : "", "date" : "June 17, 2023", "location" : "Albay Astrodome, Legazpi City", "promoter" : "Hosted By: Excellence PS", "potMoney" : "", "minBet" : ""}
 ]
