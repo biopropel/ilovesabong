@@ -3,6 +3,12 @@
     "derbyName" : "World Slasher Cup",
     "champions" :
     [
+      { "title" : "May 2023 - 9-Cock Derby", "entries" :
+      [
+        { "entryName" : "22 GF / Ormoe Joe", "owner" : "Toto Gregore", "score" : "7.5pts" },
+        { "entryName" : "Infiniti Gold 6-Cock Derby June 21 Manila Arena - 2", "owner" : "Cong. Panganiban", "score" : "7.5pts" }        
+      ]
+      },
       { "title" : "January 2023 - 9-Cock Derby", "entries" :
       [
         { "entryName" : "Mulawin 1", "owner" : "Frank Berin", "score" : "8pts" },
