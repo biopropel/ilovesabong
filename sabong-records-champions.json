@@ -45,6 +45,16 @@
     "derbyName" : "World Pitmaster Cup",
     "champions" :
     [
+      { "title" : "10-Stag National Derby (Early Bird Edition) 2023 - 3364 entries", "entries" :
+      [
+        { "entryName" : "Banaba GF Strikers (Batangas)", "owner" : "Edwin, Lito, Joel Ebora", "score" : "10pts" },
+        { "entryName" : "Murcia B.S. (Gapp Negros Occidental)", "owner" : "Boyet Singbengco", "score" : "10pts" },
+	{ "entryName" : "Don Victor Megoy (Quezon)", "owner" : "Dondon Alcala", "score" : "10pts" },
+        { "entryName" : "Tagum 2HG The Storm (Gapp Davao)", "owner" : "Helbert Casas", "score" : "10pts" },
+	{ "entryName" : "Kratos Gamefarm Ibabao (Batangas)", "owner" : "Mark & Pat Roxas", "score" : "10pts" },
+        { "entryName" : "Sperry Topspider (Gapp Iloilo)", "owner" : "Gapp Iloilo", "score" : "10pts" }
+      ]
+      },
       { "title" : "9-Cock Derby 2018", "entries" :
       [
         { "entryName" : "San Juan MOA", "owner" : "Anthony Marasigan", "score" : "8.5pts" },
