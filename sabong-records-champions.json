@@ -121,5 +121,18 @@
       ]
       }
     ]
+  },
+  {
+    "derbyName" : "PFGB Digmaan National Derby",
+    "champions" :
+    [
+      { "title" : "10-Stag Derby 2023", "entries" :
+      [
+        { "entryName" : "JJA BBM", "owner" : "Art Bajilidad", "score" : "9.5pts" },
+        { "entryName" : "KONTILIMBO 3J", "owner" : "Nick El Cano", "score" : "9.5pts" },
+        { "entryName" : "LMGF-GLADIATORS", "owner" : "Engr. Rene Medrano/ Cap. J. Casbadillo", "score" : "9.5pts" },
+      ]
+      }
+    ]
   }
 ]
