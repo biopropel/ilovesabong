@@ -3,6 +3,14 @@
     "derbyName" : "World Slasher Cup",
     "champions" :
     [
+      { "title" : "January 2024 - 9-Cock Derby", "entries" :
+      [
+        { "entryName" : "Thunderbird III", "owner" : "Nene Araneta / Frank Berin", "score" : "8pts" },
+        { "entryName" : "Chicken Joy GF", "owner" : "", "score" : "8pts" },
+	{ "entryName" : "For The Love Of The Game", "owner" : "", "score" : "8pts" },
+        { "entryName" : "Goldquest Hagibis LDI", "owner" : "Osang dela Cruz", "score" : "8pts" }        
+      ]
+      },
       { "title" : "May 2023 - 9-Cock Derby", "entries" :
       [
         { "entryName" : "22 GF / Ormoe Joe", "owner" : "Toto Gregore", "score" : "7.5pts" },
