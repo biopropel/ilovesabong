@@ -111,6 +111,13 @@
     "derbyName" : "Candelaria Derby",
     "champions" :
     [
+      { "title" : "7-Cock Annual Derby 2024", "entries" :
+      [
+        { "entryName" : "Novhienob", "owner" : "Ronald Sedano", "score" : "6pts" },
+        { "entryName" : "Greenwater 695 . ED", "owner" : "", "score" : "6pts" },
+        { "entryName" : "Viva Antipolo/Fernan/FMG", "owner" : "Mike Tolentino / Engr.Geo / Ferdinand Gaitan", "score" : "6pts" }        
+      ]
+      },
       { "title" : "7-Cock Annual Derby 2018", "entries" :
       [
         { "entryName" : "BTL Ahluck CamSur", "owner" : "Benzen Llamado / Willard Liong Ty", "score" : "6pts" },
