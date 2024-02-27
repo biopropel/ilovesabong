@@ -54,7 +54,7 @@
   {
     "derbyName" : "Master Breeders Cup",
     "champions" :
-    [
+    [      
       { "title" : "10-Stag National Derby (Early Bird Edition) 2023 - 3364 entries", "entries" :
       [
         { "entryName" : "Banaba GF Strikers (Batangas)", "owner" : "Edwin, Lito, Joel Ebora", "score" : "10pts" },
@@ -65,11 +65,16 @@
         { "entryName" : "Sperry Topspider (Gapp Iloilo)", "owner" : "Gapp Iloilo", "score" : "10pts" }
       ]
       },
-	  { "title" : "12-Stag National Derby (National Edition) 2023", "entries" :
+      { "title" : "12-Stag National Derby (National Edition) 2023", "entries" :
       [
         { "entryName" : "JMH Protocol", "owner" : "Jomar Hizon / Cris Javier", "score" : "11.5pts" }
       ]
-      }	  
+      },
+      { "title" : "11-Stag National Derby (Late Born Edition) 2024", "entries" :
+      [
+        { "entryName" : "Zy Chase Gamefarm", "owner" : "Leif Lopez", "score" : "10.5pts" }
+      ]
+      }
     ]
   },
   {
