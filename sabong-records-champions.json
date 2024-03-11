@@ -137,6 +137,12 @@
     "derbyName" : "Araw ng Davao",
     "champions" :
     [
+      { "title" : "6-Cock Derby 2024", "entries" :
+      [
+        { "entryName" : "Batang Tiaong 6", "owner" : " RJM / Jong Duy (Manila)", "score" : "6pts" },
+        { "entryName" : "Fantastic San Marcos 7 Cock Derby March 10, 2024 / RB Jeddah", "owner" : " Rudy Bacolcol / Congressman Amben Amante (Laguna)", "score" : "6pts" }
+      ]
+      },
       { "title" : "6-Cock Derby 2023", "entries" :
       [
         { "entryName" : "ROAN EVER GREEN", "owner" : "Jun Bacolod/Jong Duy (Davao)", "score" : "6pts" },
