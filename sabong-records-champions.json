@@ -81,11 +81,17 @@
     "derbyName" : "World Pitmaster Cup",
     "champions" :
     [      
+	  { "title" : "10-Cock Derby 2024", "entries" :
+      [
+        { "entryName" : "JTC Kaingin Four", "owner" : "Jojo Cruz", "score" : "9pts" },
+	{ "entryName" : "Gapan", "owner" : "Jun Soriano / Edwin & Alvin Aranez", "score" : "9pts" }
+      ]
+      },
       { "title" : "10-Cock Derby 2024", "entries" :
       [
         { "entryName" : "Taysan AEJ", "owner" : "Gretchen Baretto / Arnold dela Cruz", "score" : "9pts" },
         { "entryName" : "JJC BB EDR", "owner" : "Jon Jon Cano / Butch Brotonel / Eric dela Rosa", "score" : "9pts" },
-	{ "entryName" : "Diego JU and MARVS", "owner" : "Eric dela Rosa / James Uy", "score" : "9pts" }
+		{ "entryName" : "Diego JU and MARVS", "owner" : "Eric dela Rosa / James Uy", "score" : "9pts" }
       ]
       },
       { "title" : "9-Cock Derby 2018", "entries" :
