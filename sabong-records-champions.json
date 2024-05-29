@@ -3,6 +3,12 @@
     "derbyName" : "World Slasher Cup",
     "champions" :
     [
+      { "title" : "May 2024 - 9-Cock Derby", "entries" :
+      [
+        { "entryName" : "Mulawin", "owner" : "Frank Berin", "score" : "8pts" },
+        { "entryName" : "GITT Tonio", "owner" : "Tonio and Mike Romulo", "score" : "8pts" }
+      ]
+      },
       { "title" : "January 2024 - 9-Cock Derby", "entries" :
       [
         { "entryName" : "Thunderbird III", "owner" : "Nene Araneta / Frank Berin", "score" : "8pts" },
