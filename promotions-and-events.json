@@ -1,8 +1,4 @@
 [
-	{"title" : "2-Hits Ulutan", "prize" : "P30,000", "date" : "Every Saturday", "location" : "Lipa Games and Amusement Center, Balintawak Lipa City", "promoter" : "Hosted By: Lipa Arena", "potMoney" : "No Pot Money", "minBet" : "P5,500 minimum bet"},	
-	{"title" : "2-Hits Ulutan", "prize" : "P25,000 plus 2k per win", "date" : "Every Saturday / Sunday", "location" : "Balagtas Complex Cockpit, Brgy. Balagtas, Batangas City", "promoter" : "Hosted By: Balagtas Management", "potMoney" : "No Pot Money", "minBet" : "P5,500 minimum bet"},	
-	{"title" : "2-Hits Ulutan", "prize" : "P20,000 plus 2k per win", "date" : "Every Saturday/Sunday", "location" : "Sta. Rita Sportsville Center, Brgy. Sta. Rita, Batangas City", "promoter" : "Hosted By: StaRita Management", "potMoney" : "No Pot Money", "minBet" : "P11,000 minimum bet"},
-	{"title" : "2-Hits Ulutan", "prize" : "P30,000", "date" : "Every Wednesday", "location" : "Tinurik Mini Cockpit, Brgy. Tinurik, Tanauan City Batangas", "promoter" : "Hosted By: Tinurik Management", "potMoney" : "No Pot Money", "minBet" : "P5,500 minimum bet"},
-	{"title" : "2-Hits Ulutan", "prize" : "P30,000", "date" : "Every Saturday", "location" : "Metro Darasa Cockpit, Brgy. Darasa, Tanauan City Batangas", "promoter" : "Hosted By: MDC Management", "potMoney" : "No Pot Money", "minBet" : "P5,500 minimum bet"},
-	{"title" : "2-Hits Ulutan", "prize" : "P20,000 plus 2500 per win", "date" : "Every Monday and Tuesday", "location" : "Maharlika Cockpit Arena, Ibaan Batangas", "promoter" : "Hosted By: Maharlika Management", "potMoney" : "No Pot Money", "minBet" : "P5,500 minimum bet"}
+	{"title" : "Batangas Cockers and Breedes Association (BCBA) Anniversary 2-Stag Derby", "prize" : "P40,000 each champion", "date" : "July 25, 2024", "location" : "Balagtas Complex Cockpit, Batangas City", "promoter" : "Hosted By: BCBA", "potMoney" : "No Pot money", "minBet" : "P8,800"},
+	{"title" : "Batangas Cockers and Breedes Association (BCBA) 1st Leg 5-Stag Derby", "prize" : "P500,000", "date" : "August 22, 2024", "location" : "Balagtas Complex Cockpit, Batangas City", "promoter" : "Hosted By: BCBA", "potMoney" : "No Pot money", "minBet" : "P5,500"}
 ]
