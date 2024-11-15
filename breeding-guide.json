@@ -1,6 +1,6 @@
 [
   {
-    "category" : "Early Bird", "priming" : "August to September", "breeding" : "October 15 to November", "wingbanding" : "January 1 to 15", "fight" : "July to August"
+    "category" : "Early Bird", "priming" : "August to September", "breeding" : "October 15 to November", "wingbanding" : "January 2 to 15", "fight" : "July to August"
   },
   {
     "category" : "Local", "priming" : "October to November", "breeding" : "December", "wingbanding" : "March 1 to 15", "fight" : "September to October"
@@ -9,6 +9,6 @@
     "category" : "National", "priming" : "December", "breeding" : "January to February", "wingbanding" : "April 1 to 15", "fight" : "November to December"
   },
   {
-    "category" : "Late Born", "priming" : "February", "breeding" : "March to May", "wingbanding" : "June 1 to 15", "fight" : "February to March"
+    "category" : "Late Born", "priming" : "February", "breeding" : "March to May", "wingbanding" : "June 1 to 15", "fight" : "January to March"
   }
 ]
