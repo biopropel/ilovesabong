@@ -50,14 +50,332 @@
         { "entryName" : "Texas Cockpit Arena", "owner" : "TJ Marquez", "score" : "8pts" }        
       ]
       },
+      { "title" : "May 2018 - 9-Cock Derby", "entries" :
+      [
+        { "entryName" : "Greengold Uno", "owner" : "Rey Briones / Rod Advincula", "score" : "7.5pts" }
+      ]
+      },
       { "title" : "January 2018 - 9-Cock Derby", "entries" :
       [
         { "entryName" : "Sagupaan B50 Forten Hammer", "owner" : "Cong. Patrick Antonio", "score" : "8.5pts" }
       ]
       },
-      { "title" : "May 2018 - 9-Cock Derby", "entries" :
+      { "title" : "May 2017 - 9-Cock Derby", "entries" :
       [
-        { "entryName" : "Greengold Uno", "owner" : "Rey Briones / Rod Advincula", "score" : "7.5pts" }
+        { "entryName" : "Mulawin", "owner" : "Frank & Greg Berin", "score" : "8pts" },
+        { "entryName" : "Escolin Eslabon", "owner" : "Escolin Bros / Eslabon Bros", "score" : "8pts" },
+        { "entryName" : "Lucban", "owner" : "Anthony Lim", "score" : "8ts" }
+      ]
+      },
+      { "title" : "January 2017 - 9-Cock Derby", "entries" :
+      [
+        { "entryName" : "Sebastian NEJ", "owner" : "Frank & Greg Berin", "score" : "8.5pts" }
+      ]
+      },
+      { "title" : "June 2016 - 9-Cock Derby", "entries" :
+      [
+        { "entryName" : "ML G63", "owner" : "Magno Lim / Gary Tesorero", "score" : "7.5pts" }
+      ]
+      },
+      { "title" : "January 2016 - 9-Cock Derby", "entries" :
+      [
+        { "entryName" : "Phoenix 2", "owner" : "Mario Villamor / Ed Aparri / Atty. Art de Castro", "score" : "8pts" },
+        { "entryName" : "Blue Blade Farm AA", "owner" : "Atong Ang / Sonny Lagon", "score" : "8pts" }
+      ]
+      },
+      { "title" : "May 2015 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "Enzo Altavas Viper", "owner" : "Atty. Salazar / Joey Sy", "score" : "8pts" }
+      ]
+      },
+      { "title" : "January 2015 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "AAO Hyper B12", "owner" : "Gerry Ramos", "score" : "7.5pts" }
+      ]
+      },
+      { "title" : "June 2014 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "Lucky Chances BJRA", "owner" : "Rene Adao", "score" : "7pts" },
+        { "entryName" : "ISES Chams JM", "owner" : "James Wolf / Chris Torrano / M. Reyes / M. Rumandan", "score" : "7pts" },
+        { "entryName" : "EP Naligayan June 10-11", "owner" : "Gov. Eddie Bong Plaza", "score" : "7pts" },
+        { "entryName" : "RJM DMM Tiaong BL", "owner" : "RJ Mejia", "score" : "7pts" }
+      ]
+      },
+      { "title" : "January 2014 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "J-Genesis Dubai Gold", "owner" : "Vice Mayor Jobee P. Navarro", "score" : "7.5pts" }
+      ]
+      },
+      { "title" : "June 2013 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "El Nido", "owner" : "Dicky Lim", "score" : "7pts" },
+        { "entryName" : "Sagupaan B50", "owner" : "Cong. Patrick Antonio", "score" : "7pts" },
+        { "entryName" : "LB Candelaria", "owner" : "Luding Boongaling", "score" : "7pts" }
+      ]
+      },
+      { "title" : "January 2013 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "Oribello Brothers Gamefarm", "owner" : "Sonny / Rudy / Conrad", "score" : "8pts" },
+        { "entryName" : "MS Summit PT MM JS", "owner" : "Mark Salazar / Ed Moreno", "score" : "8pts" },
+        { "entryName" : "Taligaman Warbird / LDI", "owner" : "Virgil Intino / ADDRS", "score" : "8pts" }
+      ]
+      },
+      { "title" : "May 2012 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "Oxford Princess Casino 7-Stag Sept. 30", "owner" : "Mayor Jose Panganiban", "score" : "8pts" }
+      ]
+      },
+      { "title" : "January 2012 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "Spartans Palawan", "owner" : "Rey Briones", "score" : "8pts" },
+        { "entryName" : "Crowsland Silver Wings", "owner" : "Cong. Larry Wacnang / Cong. Ronnie Cosalan", "score" : "8pts" }
+      ]
+      },
+      { "title" : "JUne 2011 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "June 14 NCA Big Event Ynares Arena 220k Pot", "owner" : "Gov. Ito Ynares (using Boy Jiao fowls)", "score" : "7pts" },
+        { "entryName" : "PR Knights RIAN WRN", "owner" : "Arch. Rikki Reyes", "score" : "7pts" },
+        { "entryName" : "Spartans DR I", "owner" : "Rey Briones", "score" : "7pts" }
+      ]
+      },
+      { "title" : "January 2011 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "Sagupaan B50", "owner" : "Cong. Patrick Antonio", "score" : "8pts" }
+      ]
+      },
+      { "title" : "June 2010 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "ART ED AS ThunderBee", "owner" : "Ed Aparri / Atty. Art De Castro", "score" : "7.5pts" }
+      ]
+      },
+      { "title" : "January 2010 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "RM Red Cobra Farm", "owner" : "Engr. Sonny Magtibay", "score" : "8pts" }
+      ]
+      },
+      { "title" : "May 2009 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "MTJ RSM Flash Bomba", "owner" : "Marcel Julao", "score" : "6.5pts" }
+      ]
+      },
+      { "title" : "January 2009 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "MJRG", "owner" : "Rolly Gabon", "score" : "7pts" },
+        { "entryName" : "Spoiled sa Amo", "owner" : "Rodel Costalles", "score" : "7pts" },
+        { "entryName" : "Cucamonga", "owner" : "Jorge Torres / Claude Bautista", "score" : "7pts" }
+      ]
+      },
+      { "title" : "May 2008 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "Honey 888", "owner" : "Honey Yu", "score" : "7pts" },
+        { "entryName" : "Deep Impact", "owner" : "Cito Alberto", "score" : "7pts" }
+      ]
+      },
+      { "title" : "January 2008 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "SUPER CLYDE & KC", "owner" : "Gengen Arayata / Cyrus Hao", "score" : "8pts" }
+      ]
+      },
+      { "title" : "May 2007 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "APUNG TIAGO-OCTAGON", "owner" : "Jimmy Coronel / Wilson Ong", "score" : "7pts" }
+      ]
+      },
+      { "title" : "January 2007 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "AS PA SAGUPAAN WINNING LINE SSF", "owner" : "Joe Sanford / Patrick Antonio", "score" : "7pts" },
+        { "entryName" : "SUPER CLYDE & YCE II", "owner" : "Gen-gen Arayata / Ashley Arayata", "score" : "7pts" }
+      ]
+      },
+      { "title" : "June 2006 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "EYB AIR ASSAULT", "owner" : "Ampil & Bacud Bros", "score" : "7.5pts" }
+      ]
+      },
+      { "title" : "January 2006 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "RAFFY BLACKWATER/WRV", "owner" : "Nene Abello / Willy Villarica / Chris Nesmith", "score" : "7pts" },
+        { "entryName" : "PARTNERS BALANI WINSLET", "owner" : "Dicky Lim / Jose Paragas / Pablo Hufano", "score" : "7pts" },
+        { "entryName" : "KING COBRA FARM", "owner" : "Philip Chongbian", "score" : "7pts" },
+        { "entryName" : "JOF/PATAM YOUNG GUNS USA", "owner" : "Joel Fernando / Ferdie Patam", "score" : "7pts" }
+      ]
+      },
+      { "title" : "June 2005 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "MJ GOLDEN CIRCLE HAPPY BDAY", "owner" : "Matt Bitanga", "score" : "7.5pts" }
+      ]
+      },
+      { "title" : "January 2005 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "BM BULALAYAW", "owner" : "Boy Marzo", "score" : "6.5pts" },
+        { "entryName" : "JOE THUNDERBIRD FIREFLY", "owner" : "Joe Wolcott / Jun Santiago", "score" : "6.5pts" }
+      ]
+      },
+      { "title" : "June 2004 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "CCL HONEY BINANGONAN", "owner" : "Honey Yu / Louie Cua", "score" : "7pts" },
+        { "entryName" : "PEBR FIREFLY I", "owner" : "Pol Estrellado", "score" : "7pts" }
+      ]
+      },
+      { "title" : "January 2004 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "WINNING TIME", "owner" : "Atty Rudy Salud", "score" : "8pts" }
+      ]
+      },
+      { "title" : "June 2003 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "ISLANDER RB", "owner" : "Rey Briones", "score" : "7pts" },
+        { "entryName" : "GOLDEN CIRCLE I", "owner" : "Matt Bitanga", "score" : "7pts" }
+      ]
+      },
+      { "title" : "January 2003 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "JADE LCC", "owner" : "Fred Cruz / Senen Uyan", "score" : "7pts" },
+        { "entryName" : "R & B FARM BINANGONAN I", "owner" : "Claude Bautista", "score" : "7pts" },
+        { "entryName" : "GOLD CUP JED & JOY", "owner" : "William Go", "score" : "7pts" }
+      ]
+      },
+      { "title" : "June 2002 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "SCEPTER AT MULAWIN", "owner" : "Frank Berin / Nonoy Gonzales", "score" : "7pts" }
+      ]
+      },
+      { "title" : "January 2002 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "WINSLET ", "owner" : "Dicky Lim", "score" : "7.5pts" }
+      ]
+      },
+      { "title" : "June 2001 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "MYL GERAN", "owner" : "Gerry Fevidal", "score" : "7pts" }
+      ]
+      },
+      { "title" : "January 2001 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "HACHET THUNDERBIRD FIREFLY", "owner" : "Nene Araneta / Roger Roberts", "score" : "7pts" },
+        { "entryName" : "SUPER NINJA BULLJACK", "owner" : "Tony Trebol", "score" : "7pts" }
+      ]
+      },
+      { "title" : "June 2000 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "GERAN", "owner" : "Gerry Fevidal", "score" : "7pts" },
+        { "entryName" : "RFP ARGEM COLISEUM", "owner" : "Romy Pamatpat", "score" : "7pts" },
+        { "entryName" : "PTK YUCATAN", "owner" : "Peping Ricafort", "score" : "7pts" }
+      ]
+      },
+      { "title" : "January 2000 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "BOB & PATRICK", "owner" : "Patrick Antonio / Bob Cuenca", "score" : "7pts" },
+        { "entryName" : "PTK YUCATAN", "owner" : "Peping Ricafort", "score" : "7pts" }
+      ]
+      },
+      { "title" : "June 1999 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "LIZA GALORE", "owner" : "Eddie Araneta", "score" : "7pts" }
+      ]
+      },
+      { "title" : "January 1999 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "THUNDERBIRD II", "owner" : "Nene Araneta", "score" : "7pts" },
+        { "entryName" : "JIMA-FER", "owner" : "Jingco Bros / Boy Ledesma", "score" : "7pts" },
+        { "entryName" : "MULAWIN I", "owner" : "Rudy Albano", "score" : "7pts" }
+      ]
+      },
+      { "title" : "June 1998 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "BALBINA CUP B-BAP II", "owner" : "Danding Cojuangco", "score" : "7pts" }
+      ]
+      },
+      { "title" : "January 1998 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "ONE RAFFY BLACKWATER", "owner" : "Carol Nesmith / Nene Abello / Robert So", "score" : "7pts" }
+      ]
+      },
+      { "title" : "May 1997 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "SAGUPAAN", "owner" : "Patrick Antonio", "score" : "8pts" }
+      ]
+      },
+      { "title" : "January 1997 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "KGB-CAROL NESMITH", "owner" : "Carol Nesmith / Francis Lumunsad", "score" : "7pts" }
+      ]
+      },
+      { "title" : "May 1996 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "SARANGGANI KING I", "owner" : "James Chiongbian / Johnny Jumper", "score" : "7.5pts" }
+      ]
+      },
+      { "title" : "January 1996 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "OHATCHEE FIREBIRD III", "owner" : "Biboy Enriquez / Jerry Ellard / Scott Baird", "score" : "7pts" },
+        { "entryName" : "CAT STINGER", "owner" : "Peping Cojuangco / Esting Teopaco", "score" : "7pts" },
+        { "entryName" : "DYNASTY", "owner" : "Henry Tan", "score" : "7pts" }
+      ]
+      },
+      { "title" : "June 1995 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "TANAUAN ACES", "owner" : "Dante Carandang / Boy de Roca / Rio Salceda", "score" : "7.5pts" }
+      ]
+      },
+      { "title" : "January 1995 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "THUNDERBIRD", "owner" : "Nene Araneta / Ray Alexander / Buddy Mann", "score" : "7pts" },
+        { "entryName" : "TWO RAFFY'S BLACKWATER", "owner" : "Mario Villamor / Nene Abello / Carol Nesmith", "score" : "7pts" },
+        { "entryName" : "BOB & JOE", "owner" : "Peping Cojuangco / Esting Teopaco / Bob Howard", "score" : "7pts" }
+      ]
+      },
+      { "title" : "May 1994 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "STINGRAY", "owner" : "Nene Araneta / Ray Alexander", "score" : "7pts" }
+      ]
+      },
+      { "title" : "January 1994 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "BULLRUN FIREBIRDS III", "owner" : "Biboy Enriquez / Oscar Akins", "score" : "6.5pts" },
+        { "entryName" : "DAN GRAY I FIREFLY", "owner" : "Jun Santiago / Dan Gray", "score" : "6.5pts" }
+      ]
+      },
+      { "title" : "May 1993 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "PTK COUNTRY ROAD", "owner" : "Peping Ricafort", "score" : "6.5pts" }
+      ]
+      },
+      { "title" : "January 1993 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "BOB & JOE", "owner" : "Peping Cojuangco / Esting Teopaco / Bob Howard", "score" : "7pts" }
+      ]
+      },
+      { "title" : "June 1992 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "FIREFLY", "owner" : "Jun Santiago", "score" : "7pts" },
+        { "entryName" : "SERPENTINA", "owner" : "Joey delos Santos", "score" : "7pts" },
+        { "entryName" : "LL BULLDOZER", "owner" : "Polding Correa", "score" : "7pts" }
+      ]
+      },
+      { "title" : "January 1992 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "FIREFLY", "owner" : "Jun Santiago", "score" : "7pts" },
+        { "entryName" : "SERPENTINA", "owner" : "Joey delos Santos", "score" : "7pts" }
+      ]
+      },
+      { "title" : "May 1991 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "BOTCHOCOY", "owner" : "William Co / Peping Cojuangco", "score" : "7pts" },
+        { "entryName" : "BOB & STING", "owner" : "Esting Teopaco / Bob Howard", "score" : "7pts" },
+        { "entryName" : "RED BULL I", "owner" : "Manny Dalipe", "score" : "7pts" },
+        { "entryName" : "BPZ", "owner" : "Boy Primallon", "score" : "7pts" }
+      ]
+      },
+      { "title" : "January 1991 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "C. A. VILLAMOR", "owner" : "Cito Alberto", "score" : "7pts" }
+      ]
+      },
+      { "title" : "July 1990 - 8-Cock Derby", "entries" :
+      [
+        { "entryName" : "FIREFLY", "owner" : "Jun Santiago", "score" : "6pts" },
+        { "entryName" : "FANTASTIC", "owner" : "Vic Amante", "score" : "6pts" }
       ]
       }
     ]
