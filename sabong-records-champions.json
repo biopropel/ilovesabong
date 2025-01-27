@@ -498,6 +498,112 @@
     ]
   },
   {
+    "derbyName" : "FIGBA Bakbakan National Derby",
+    "champions" :
+    [
+      { "title" : "12-Stag Derby 2017", "entries" :
+      [
+        { "entryName" : "JH-Maapaz", "owner" : "Jon Hermoso (BBC)", "score" : "12pts" },
+        { "entryName" : "JSF Combine", "owner" : "Roy Sarossa / J. Sy (PAGBA)", "score" : "12pts" }
+      ]
+      },
+      { "title" : "12-Stag Derby 2016", "entries" :
+      [
+        { "entryName" : "LDI Aquarius", "owner" : "Charlie Sy (KGBA)", "score" : "12pts" }
+      ]
+      },
+      { "title" : "12-Stag Derby 2015", "entries" :
+      [
+        { "entryName" : "JM", "owner" : "Bernard C. / Jojo M. / Cito Alberto (BGBA)", "score" : "12pts" }
+      ]
+      },
+      { "title" : "12-Stag Derby 2014", "entries" :
+      [
+        { "entryName" : "NJMar Gamefarm", "owner" : "Nerwin Rico Hermoso (BBC)", "score" : "12pts" }
+      ]
+      },
+      { "title" : "11-Stag Derby 2013", "entries" :
+      [
+        { "entryName" : "SF Blue Quartz 5 & 23", "owner" : "Bebot Uy / Jojo Alvarez", "score" : "11pts" },
+        { "entryName" : "AIAH EINAR", "owner" : "Macapagal / Dyland Castillo", "score" : "11pts" },
+        { "entryName" : "Cabanela BMJ", "owner" : "Boy Gamilla", "score" : "11pts" }
+      ]
+      },
+      { "title" : "11-Stag Derby 2012", "entries" :
+      [
+        { "entryName" : "Super J-II", "owner" : "Vice Mayor Jojo Calderon", "score" : "11pts" },
+        { "entryName" : "JAM JC", "owner" : "Dr. Lasutaz", "score" : "11pts" },
+        { "entryName" : "Vilac Kinelatan Red", "owner" : "Vic Lacsao / Alquin / Shiela P.", "score" : "11pts" }
+      ]
+      },
+      { "title" : "11-Stag Derby 2011", "entries" :
+      [
+        { "entryName" : "EP RBP Roosterville 3", "owner" : "Gov. Eddie Bong Plaza / Honorable Randolph Plaza (TARLAC)", "score" : "11pts" },
+        { "entryName" : "AS Atom", "owner" : "Allan Siaco / Ramil Labrador (UCBA)", "score" : "11pts" }
+      ]
+      },
+      { "title" : "10-Stag Derby 2010", "entries" :
+      [
+        { "entryName" : "GRND Richelle II", "owner" : "Engr. Ralph Daigo / Dr. Ronnie Magbalon / Gerry Garrovillas (RGBA)", "score" : "10pts" },
+        { "entryName" : "Bondoc Peninsula", "owner" : "Gov. JayJay Suarez (QCBA)", "score" : "10pts" }
+      ]
+      },
+      { "title" : "10-Stag Derby 2009", "entries" :
+      [
+        { "entryName" : "Red Cobra CRB", "owner" : "Boy Tanyag (LGBA)", "score" : "9.5pts" },
+        { "entryName" : "IGAE Bagwis", "owner" : "Engr. Irineo Andal (BBC)", "score" : "9.5pts" }
+      ]
+      },
+      { "title" : "10-Stag Derby 2008", "entries" :
+      [
+        { "entryName" : "Alexandra", "owner" : "Jun Pe", "score" : "10pts" },
+        { "entryName" : "Team Red Star", "owner" : "John Daguio (UNIGBA)", "score" : "10pts" }
+      ]
+      },
+      { "title" : "10-Stag Derby 2007", "entries" :
+      [
+        { "entryName" : "GOLDEN TORNADO PIT GAMES UBGBA Entry", "owner" : "Rommel Kalalang / Noli Monares / Jeffrey Pagcanlungan (who used Bloodlines that came from Manny Berbano)", "score" : "10pts" }
+      ]
+      },
+      { "title" : "9-Stag Derby 2006", "entries" :
+      [
+        { "entryName" : "PT Paniki", "owner" : "Bobot Tan", "score" : "9pts" },
+        { "entryName" : "Super Miggy", "owner" : "Gen Gen Arayata", "score" : "9pts" },
+        { "entryName" : "Ariva GG RPCD", "owner" : "Major Bobby Doromal / Gene Garcia", "score" : "9pts" }
+      ]
+      },
+      { "title" : "9-Stag Derby 2005", "entries" :
+      [
+        { "entryName" : "DB Algar", "owner" : "Al Garcia", "score" : "9pts" }
+      ]
+      },
+      { "title" : "9-Stag Derby 2004", "entries" :
+      [
+        { "entryName" : "UNIGBA Capricorn Jeff", "owner" : "Mayor Bobby Clemente", "score" : "" },
+        { "entryName" : "PAGBA", "owner" : "Jerry Boy Go / Loy Seisa", "score" : "" },
+        { "entryName" : "Jade Resort", "owner" : "Arman Santos / Joey Lapid", "score" : "" },
+        { "entryName" : "Paniqui Topgun JVL-II", "owner" : "Mayor Edwin Ramos", "score" : "" }
+      ]
+      },
+      { "title" : "9-Stag Derby 2003", "entries" :
+      [
+        { "entryName" : "Kimbee Gold", "owner" : "Bobby Miguel /Rainier Kau", "score" : "" },
+        { "entryName" : "Sagupaan BPZ Complexor 3000", "owner" : "oy Primalion / Ampril Bros / Patrick Antonio", "score" : "" }
+      ]
+      },
+      { "title" : "9-Stag Derby 2002", "entries" :
+      [
+        { "entryName" : "CVGBA Fly High II", "owner" : "Charlton Uy / Andy Alivia / Ben Ben de Guzman", "score" : "" }
+      ]
+      },
+      { "title" : "9-Stag Derby 2001", "entries" :
+      [
+        { "entryName" : "CVGBA", "owner" : "Gerry Alivia", "score" : "" }
+      ]
+      }
+    ]
+  },
+  {
     "derbyName" : "PFGB Digmaan National Derby",
     "champions" :
     [
