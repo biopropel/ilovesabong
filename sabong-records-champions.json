@@ -3,6 +3,11 @@
     "derbyName" : "World Slasher Cup",
     "champions" :
     [
+      { "title" : "January 2025 - 9-Cock Derby", "entries" :
+      [
+        { "entryName" : "D'Shipper RCF DDD Balaraw", "owner" : "Jojo Bacar / Ruel C. Facundo / Archie Sisiw Academy / Daniel Naan", "score" : "9pts" }
+      ]
+      },
       { "title" : "May 2024 - 9-Cock Derby", "entries" :
       [
         { "entryName" : "Mulawin", "owner" : "Frank Berin", "score" : "8pts" },
