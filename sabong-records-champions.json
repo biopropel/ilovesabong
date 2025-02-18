@@ -410,7 +410,13 @@
     "derbyName" : "World Pitmaster Cup",
     "champions" :
     [      
-	  { "title" : "10-Cock Derby 2024", "entries" :
+	  { "title" : "11-Cock Derby 2025", "entries" :
+      [
+        { "entryName" : "Gemini I", "owner" : "Jansoy Lee", "score" : "10pts" },
+	{ "entryName" : "JP Miller Time USA", "owner" : "Dan Miller", "score" : "10pts" }
+      ]
+      },
+	{ "title" : "10-Cock Derby 2024", "entries" :
       [
         { "entryName" : "JTC Kaingin Four", "owner" : "Jojo Cruz", "score" : "9pts" },
 	{ "entryName" : "Gapan", "owner" : "Jun Soriano / Edwin & Alvin Aranez", "score" : "9pts" }
