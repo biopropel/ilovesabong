@@ -384,6 +384,11 @@
     "derbyName" : "Master Breeders Cup",
     "champions" :
     [      
+      { "title" : "11-Stag National Derby (Late Edition) 2025", "entries" :
+      [
+        { "entryName" : "The Highlander", "owner" : "Romulo Balbalin (Gapp La Union)", "score" : "11pts" }        
+      ]
+      },
       { "title" : "10-Stag National Derby (Early Bird Edition) 2023 - 3364 entries", "entries" :
       [
         { "entryName" : "Banaba GF Strikers (Batangas)", "owner" : "Edwin, Lito, Joel Ebora", "score" : "10pts" },
