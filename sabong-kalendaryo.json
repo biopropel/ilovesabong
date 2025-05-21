@@ -1,7 +1,6 @@
-[	
-	{"title" : "Araw ng Davao 6-Cock Derby", "prize" : "18 Million or more", "date" : "March 1, 4, 6, 8, 2025", "location" : "The New Davao Matina Gallera, Davao City", "promoter" : "Hosted By: JPY API YAO", "potMoney" : "P100,000", "minBet" : "P11,000"},
-	{"title" : "4th Cagayan de Oro Gamefowl Expo", "prize" : "", "date" : "April 10-12, 2025", "location" : "The Attium, Limketkai Mall, Cagayan De Oro City", "promoter" : "Hosted By: CDO", "potMoney" : "", "minBet" : ""},
+[		
 	{"title" : "Ubusan ng Yaman Part 3 7-Cock Derby", "prize" : "10 Million or more", "date" : "May 25, 2025", "location" : "Gallera de Mandaue, Mandaue Cebu", "promoter" : "Hosted By: Cong. Sonny Lagon", "potMoney" : "P220,000", "minBet" : "P55,000"},
 	{"title" : "2025 World Slasher Cup 9-Cock Invitational Derby 2", "prize" : "", "date" : "May 20-26, 2025", "location" : "Araneta Coliseum, Quezon City", "promoter" : "Hosted By: Pintakasi", "potMoney" : "P88,000", "minBet" : "P55,000"},
+	{"title" : "Clark Hobby Expo 2025", "prize" : "", "date" : "June 27-29, 2025", "location" : "SMX Convention Center, SM Clark City", "promoter" : "Hosted By: Clark Expo", "potMoney" : "", "minBet" : ""},
 	{"title" : "FIGBA Fiestag 2025", "prize" : "", "date" : "August 15-17, 2025", "location" : "SMX Convention Center Manila, Mall of Asia Pasay City", "promoter" : "Hosted By: FIGBA", "potMoney" : "", "minBet" : ""}
 ]
