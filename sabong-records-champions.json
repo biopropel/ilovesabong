@@ -3,6 +3,11 @@
     "derbyName" : "World Slasher Cup",
     "champions" :
     [
+      { "title" : "May 2025 - 9-Cock Derby", "entries" :
+      [
+        { "entryName" : "Bad Boy MJ Raffy", "owner" : "Cong. Marvin Rillo", "score" : "8.5pts" }
+      ]
+      },
       { "title" : "January 2025 - 9-Cock Derby", "entries" :
       [
         { "entryName" : "D'Shipper RCF DDD Balaraw", "owner" : "Jojo Bacar / Ruel C. Facundo / Archie Sisiw Academy / Daniel Naan", "score" : "9pts" }
